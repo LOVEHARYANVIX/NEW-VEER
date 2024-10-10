@@ -84,7 +84,7 @@ logo4 = (f"""
 \033[1;92m[\033[1;92m\033[1;34m✔\033[1;92m]DEVELOPER      \033[1;91m\033[1;34m: \033[1;92   NADEEM  ALI ☠️     [-VPN-MH PROXY-] 
 [\033[1;92m\033[1;34m✔\033[1;92m]FACEBOOK       \033[1;91m\033[1;34m: \033[1;92m PARDHAN KIING         [-THE BARND-] 
 [\033[1;92m\033[1;34m✔\033[1;92m]TOOL           \033[1;91m\033[1;34m: \033[1;92m OLD CRACK-😀❣️      [-BROKEN-NADEEM-]
-[\033[1;92m\033[1;34m✔\033[1;92m]STATUS         \033[1;91m\033[1;34m: \033[1;92FREE TOOL 🌺
+[\033[1;92m\033[1;34m✔\033[1;92m]STATUS         \033[1;91m\033[1;34m: \033[1;92  FREE TOOL 
 [\033[1;92m\033[1;34m✔\033[1;92m]VERSION        \033[1;91m\033[1;34m: \033[1;35m[\033[1;32V.6\033[1;35m] THE PARDHAN     [-W/C NADEEN CMAND-]
 \x1b[1;92m═━═━═━═━═━━═━═━══━═━═━═━═━━═━═━══━═━━══━═━━━══━═━═━━════━═━═━═━═""")
 #----------------------------[MAIN/DEF]--------------------------------------------------------------------------#
@@ -116,7 +116,7 @@ def main():
         os.system('clear')
         print(logo4)
         print(f'\x1b[38;5;8m(\x1b[1;97m~\x1b[38;5;8m) \x1b[38;5;47mTOTAL ID : {limit} \x1b[38;5;8m(\x1b[1;97m~\x1b[38;5;8m) \x1b[38;5;47m  METHOD : \x1b[38;5;86m{ask} KI ACCOUNT SELECTE KIYA')
-        print(f'\x1b[38;5;8m(\x1b[1;97m~\x1b[38;5;8m) \x1b[38;5;47mIF NO RESULT \x1b[38;5;8m[\x1b[38;5;47mON\x1b[1;97m/\x1b[38;5;47mOF\x1b[38;5;8m]  \x1b[38;5;47mAIRPLANE MODE |-BROKEN NADEEM 🔐💞🫶🐬-|')
+        print(f'\x1b[38;5;8m(\x1b[1;97m~\x1b[38;5;8m) \x1b[38;5;47mIF NO RESULT \x1b[38;5;8m[\x1b[38;5;47mON\x1b[1;97m/\x1b[38;5;47mOF\x1b[38;5;8m]  \x1b[38;5;47mAIRPLANE MODE |-BROKEN NADEEM 🔐💞🐬-|')
         lin()
         for mal in user:
             uid=star+mal
